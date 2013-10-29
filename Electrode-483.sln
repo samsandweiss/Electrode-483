@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 
 Project("{B109157C-AA46-D596-D02E-EB190DEF729B}") = "Electrode-483", "Assembly-CSharp.csproj", "{082B9224-8700-1329-EB54-A4B8BF52E7F9}"
 EndProject
+Project("{B109157C-AA46-D596-D02E-EB190DEF729B}") = "Electrode-483", "Assembly-UnityScript-firstpass.unityproj", "{EAC3E1C1-D043-2F10-FFB1-6726A6B87040}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,15 +15,15 @@ Global
 		{082B9224-8700-1329-EB54-A4B8BF52E7F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{082B9224-8700-1329-EB54-A4B8BF52E7F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{082B9224-8700-1329-EB54-A4B8BF52E7F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAC3E1C1-D043-2F10-FFB1-6726A6B87040}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC3E1C1-D043-2F10-FFB1-6726A6B87040}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC3E1C1-D043-2F10-FFB1-6726A6B87040}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC3E1C1-D043-2F10-FFB1-6726A6B87040}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-<<<<<<< HEAD
-		GlobalSection(MonoDevelopProperties) = preSolution
-=======
-				GlobalSection(MonoDevelopProperties) = preSolution
->>>>>>> b7bb3779b9559df437e8131f85224424d76cfd4e
+	GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
@@ -39,5 +41,4 @@ Global
 		$3.inheritsScope = text/plain
 		$3.scope = text/plain
 	EndGlobalSection
-
 EndGlobal
